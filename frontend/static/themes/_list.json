@@ -1188,5 +1188,12 @@
     "mainColor": "#fe5503",
     "subColor": "#ff9562",
     "textColor": "#3d1705"
+  },
+  {
+    "name": "forest",
+    "bgColor": "#0c2d2f",
+    "mainColor": "#d1e497",
+    "subColor": "#86c697",
+    "textColor": "#dfe59d"
   }
 ]
